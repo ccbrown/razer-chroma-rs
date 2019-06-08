@@ -1,4 +1,4 @@
-# razer-chroma-rs ![docs](https://docs.rs/razer_chroma/badge.svg)
+# razer-chroma-rs [![docs](https://docs.rs/razer_chroma/badge.svg)](https://docs.rs/razer_chroma/)
 
 The `razer_chroma` crate provides Razer Chroma SDK functionality in a safe and simple API.
 
